@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c337f85bfeda5d5c",
+        "id": "9a05217df8bdd781",
         "type": "tabs",
         "children": [
           {
-            "id": "30e28d3c99e8289f",
+            "id": "a672a0858e937d23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heroes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Heroes"
+              "title": "New tab"
             }
           }
         ]
@@ -162,16 +158,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30e28d3c99e8289f",
+  "active": "a672a0858e937d23",
   "lastOpenFiles": [
+    "Mage.md",
+    "Cards.md",
+    "Rest.md",
+    "Move.md",
+    "Turn.md",
+    "Actions.md",
+    "Special Moves.md",
     "Hero Deck.md",
     "Heroes.md",
-    "Special Moves.md",
-    "Hp.md",
-    "Mage.md",
-    "Warrior.md",
-    "Cleric.md",
     "Rogue.md",
+    "Hp.md",
+    "Cleric.md",
+    "Warrior.md",
     "Welcome.md"
   ]
 }

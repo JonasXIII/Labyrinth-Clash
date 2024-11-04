@@ -8,3 +8,4 @@ Each hero starts the game with :
 20 [[Hp]]
 [[Hero Deck]]
 [[Special Moves]]
+
