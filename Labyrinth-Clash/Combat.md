@@ -1,0 +1,1 @@
+Combat is how heros will [[Killing & Dying|kill]] the other heros to [[Objective|win the game]].

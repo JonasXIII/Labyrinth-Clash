@@ -1,1 +1,0 @@
-Instead of [[Move]] on a turn a [[Heroes]] can choose to discard 1 or 2 exhaustion [[Cards]] from their hand.

@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "inline-title",
+    "Headers",
+    "no-underlines",
+    "bolder-bold"
+  ]
+}
