@@ -2,6 +2,29 @@ Cards might be tied to what actions there
 
 
 # Ideas For Kinds of Cards
+## Totally Awesome New Idea
+### Experience Cards
+* Have a value for each of the 4 [[Stat]]s
+* Every hero starts with cards specializing in their [[Stat]]
+* Unclear how we add Experience cards relevant to the specific hero
+	* maybe each hero has passive to always +1 to their [[Stat]]
+### Equipment Cards
+* Give a plus to some [[Stat]](s)
+	* +0/+0/+1/+2
+	* +1/+1/+1/+0
+	* +5/+0/+0/+0
+### Action Cards
+* do cool thing
+	* teleport
+	* shoot special arrow
+* Cost some number of [[Stat]] points
+* might require an Experience card with a minimum value
+	* 6 Int(3 from one Experience card)
+		* pushes powerful cards more to late game
+* 
+
+
+
 ## Movement Cards
 Related to [[Movement|movement]]
 Spend one card to move one tile / explore one tile.
