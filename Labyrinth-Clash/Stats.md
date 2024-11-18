@@ -1,4 +1,5 @@
-# Strength (Str)
+ 
+ # Strength (Str)
 # Dexterity (Dex)
 # Vitality (Vit)
 # Intelligence (Int)

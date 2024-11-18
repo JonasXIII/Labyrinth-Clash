@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes.md",
+                "file": "Cards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Cards"
             }
           }
         ]
@@ -164,17 +164,17 @@
   },
   "active": "1eacc5b07a9eec99",
   "lastOpenFiles": [
-    "Stat.md",
-    "Classes.md",
+    "Actions.md",
     "Cards.md",
-    "Deck.md",
     "Turn.md",
     "Tiles.md",
+    "Stats.md",
+    "Classes.md",
+    "Deck.md",
     "Objective.md",
     "Movement.md",
     "Monsters.md",
     "Board.md",
-    "Actions.md",
     "Exploration.md",
     "Heroes.md",
     "Move.md",

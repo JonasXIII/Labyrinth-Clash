@@ -1,15 +1,39 @@
 Cards might be tied to what actions there
 
 
-# Ideas For Kinds of Cards
+# Kinds of Cards
+
+## Resource Cards
+Each of these cards has a value for each of the [[Stats]]
+You can play a resource card and spend the points on that  card to perform some action. When playing a resource card, you must chose which stat you are using it for.
+
+Action types: This is bad because it means that rangers would be the best at moving.
+* Str: Attack?
+* Dex: Move?
+* Vit: Heal?
+* Int: ??
+
+## Equipment Cards
+Equipment cards let you add bonuses to resource cards. 
+They have a value for some of the stats and allow you to add that number to a resource card when you play it.
+
+## Action Cards
+A
+
+## Exhaustion Cards
+Cards that are accumulated performing actions that exert the hero. They go straight into your discard pile and act as dead weight in your deck. 
+
+You can take a [[Actions#Rest|rest action]] to remove some exhaustion cards from your deck. This adds an interesting trade-off between taking bold actions now, but having reduced action economy later as a result.
+
+# Ideas
 ## Totally Awesome New Idea
 ### Experience Cards
-* Have a value for each of the 4 [[Stat]]s
-* Every hero starts with cards specializing in their [[Stat]]
+* Have a value for each of the 4 [[Stats]]s
+* Every hero starts with cards specializing in their [[Stats]]
 * Unclear how we add Experience cards relevant to the specific hero
-	* maybe each hero has passive to always +1 to their [[Stat]]
+	* maybe each hero has passive to always +1 to their [[Stats]]
 ### Equipment Cards
-* Give a plus to some [[Stat]](s)
+* Give a plus to some [[Stats]](s)
 	* +0/+0/+1/+2
 	* +1/+1/+1/+0
 	* +5/+0/+0/+0
@@ -17,27 +41,11 @@ Cards might be tied to what actions there
 * do cool thing
 	* teleport
 	* shoot special arrow
-* Cost some number of [[Stat]] points
+* Cost some number of [[Stats]] points
 * might require an Experience card with a minimum value
 	* 6 Int(3 from one Experience card)
 		* pushes powerful cards more to late game
-* 
 
-
-
-## Movement Cards
-Related to [[Movement|movement]]
-Spend one card to move one tile / explore one tile.
-* These cards are the resource that allow movement?
-
-## Attack Cards
-Cards that can be used to attack or defend against attacks.
-* These cards are the resource that allows you to attack / defend?
-
-## Exhaustion Cards
-Cards that are accumulated performing actions that exert the hero. They go straight into your discard pile and act as dead weight in your deck. 
-
-You can take a [[Actions#Rest|rest action]] to remove some exhaustion cards from your deck. This adds an interesting trade-off between taking bold actions now, but having reduced action economy later as a result.
 
 ## Weapon/Equipment Cards
 Don't have any effect on their own, but when played in conjunction with an attack /movement card, have some other effect?
