@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploration.md",
+                "file": "Cards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploration"
+              "title": "Cards"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn.md",
+                "file": "Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Turn"
+              "title": "Actions"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,25 +204,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e2b6f09861073e9",
+  "active": "1eacc5b07a9eec99",
   "lastOpenFiles": [
+    "Deck.md",
+    "Turn.md",
+    "Tiles.md",
+    "Objective.md",
+    "Movement.md",
+    "Monsters.md",
+    "Board.md",
     "Actions.md",
+    "Exploration.md",
+    "Heroes.md",
     "Move.md",
     "Combat.md",
-    "Objective.md",
-    "Exploration.md",
-    "Monsters.md",
     "Special Moves.md",
     "Cards.md",
     "Classes.md",
-    "Deck.md",
     "Health.md",
-    "Heroes.md",
-    "Turn.md",
-    "Tiles.md",
     "Killing & Dying.md",
-    "Board.md",
-    "Movement.md",
     "temp/Mage.md",
     "temp/Move.md",
     "temp/Rest.md",

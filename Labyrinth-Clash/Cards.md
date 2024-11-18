@@ -32,7 +32,7 @@ Cards that allow you to take some other action on your turn
 # Class-Based Card Effects
 We think it is important that every ability/card is usable by every player, however, cards that align with your class can be combined/buffed in more interesting ways.
 
-This could add more variation in the playstyles between classes. A mage could build a deck focusing on ranged attacks, but it wouldn't be nearly as effective as in the hands of a [[Classes#Ranger|ranger]]
+This could add more variation in the play styles between classes. A mage could build a deck focusing on ranged attacks, but it wouldn't be nearly as effective as in the hands of a [[Classes#Ranger|ranger]]
 ## Examples/Ideas:
 * Everyone can use a shield card for +1 defense, but the [[Classes#Warrior|warrior]] can use it for +2 defense
 	* Maybe the warrior can also use the shield as an attack card
