@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards.md",
+                "file": "Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cards"
+              "title": "Classes"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "1eacc5b07a9eec99",
   "lastOpenFiles": [
+    "Stat.md",
+    "Classes.md",
+    "Cards.md",
     "Deck.md",
     "Turn.md",
     "Tiles.md",
@@ -177,8 +180,6 @@
     "Move.md",
     "Combat.md",
     "Special Moves.md",
-    "Cards.md",
-    "Classes.md",
     "Health.md",
     "Killing & Dying.md",
     "temp/Mage.md",
