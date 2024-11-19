@@ -1,2 +1,4 @@
 There will probably be some monsters to make exploring more dangerous/interesting.
-Monster level N => look at top N of loot deck and choose 1 as drop reward. 
+
+
+For a monster of a given power level X, you [[Deck#Loot X|loot X]]: draw X  cards and pick one.

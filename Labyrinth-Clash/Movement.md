@@ -1,7 +1,13 @@
-You can move when you take the [[Actions#Move|move action]]
 
-Is movement a distinct phase of your turn or 
+## Moving
+Each turn, every player starts with one movement. You can turn two DEX points into one movement.
 
+## Discovering New Tiles
+[[Exploration]]
+Discovering a new tile costs two movement, but you can still do it if you only have one movement left
+
+
+## Ideas
 How is movement as a resource collected
 * Some fixed amount per turn
 * Based on how many movement cards you draw
@@ -12,6 +18,3 @@ How is movement as a resource collected
 * I think default move of 2 would be good where discovering a tile takes 2 movement, but if you only have one movement left you can still discover
 
 Is every room equally easy to move through or do some rooms take more movement?
-
-Is discovering a room as easy as just moving to it? 
-* Maybe it takes two movement to do that

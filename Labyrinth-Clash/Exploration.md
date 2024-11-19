@@ -1,7 +1,6 @@
 # Revealing a Tile
 
-[[Monsters]]?
+Discovering a new room decreases your movement by 2, and you can still do it even if you only have one movement left.
 
-# Drawing Cards
-Card draw is likely related to the exploration of new rooms
 
+Rooms may contain [[Monsters]] and [[Chests]]

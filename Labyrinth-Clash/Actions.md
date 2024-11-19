@@ -1,14 +1,20 @@
-# Move 
-![[Movement]]
+# Basic Actions
+Basic actions are actions you  can take on any turn 
+## Move
+[[Movement]] / [[Exploration]]
 
-# Attack
-You can attack other players (and monsters?)
+## Attack
+Attacking is related to some kind of [[Cards#Resource Cards|resource]], but we haven't decided what yet.
 
-# Rest
-Instead of move on a turn a [[Heroes]] can choose to discard 1 or 2 exhaustion [[Cards]] from their hand.
-Love the idea of rest.
+## Rest
+Resting is an action that a hero can take to  remove [[Cards#Exhaustion Cards|exhaustion cards]] from their hand.
+We are thinking that you wouldn't be able to move 
 
 # Special Actions
+
+## Card Actions
+[[Cards#Action Cards|card actions]]
+
 ## Reactions
 Could there be some cards/actions that can be played at instant speed or just as a reaction?
 Too complicated?
