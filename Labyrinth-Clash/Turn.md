@@ -1,3 +1,9 @@
+
+# Turn Order
+1. Play cards from hand
+2. Discard n cards random where n is cards in hand/3 round down
+3. Draw 4 cards
+
 # Basic Turn
 1. Take [[Actions]] - play cards from hand
 2. [[Movement|move]] or [[Actions#Rest|rest]]
