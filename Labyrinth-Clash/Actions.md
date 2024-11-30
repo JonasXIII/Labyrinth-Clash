@@ -3,8 +3,16 @@ Basic actions are actions you  can take on any turn
 ## Move
 [[Movement]] / [[Exploration]]
 
+Each player has at least one movement per turn
+* Two DEX can be converted into another movement at any time.
+* Two cards can be discarded in exchange for one movement
+
+
 ## Attack
-Attacking is related to some kind of [[Cards#Resource Cards|resource]], but we haven't decided what yet.
+[[Combat]]
+
+Attack Points
+* Two 
 
 ## Rest
 Resting is an action that a hero can take to  remove [[Cards#Exhaustion Cards|exhaustion cards]] from their hand.
@@ -16,8 +24,7 @@ We are thinking that you wouldn't be able to move
 [[Cards#Action Cards|card actions]]
 
 ## Reactions
-Could there be some cards/actions that can be played at instant speed or just as a reaction?
-Too complicated?
+Could there be some cards/actions that can be played at any time on any turn if you have the resources to use them.
 
 ## Rescue Actions
 There are some cases where the board ends up in a state where certain sections are fully blocked off from the rest of the maze. Having some kind of special rescue action

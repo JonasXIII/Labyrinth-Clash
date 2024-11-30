@@ -13,3 +13,8 @@ The board has one starting tile in each of the corners. The starting tile is ins
 
 # Revealing Tiles
 Revealing tiles happens during the process of [[Exploration|exploring]]. Tiles are revealed by a player entering them for the first time.
+
+
+# Doors
+Every tile has some number of doors.
+You can freely move thr

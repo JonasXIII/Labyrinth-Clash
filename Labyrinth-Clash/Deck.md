@@ -16,7 +16,7 @@ In order to be a deck-building game,  we need some card [[Exploration#Drawing Ca
 ### Loot X
 We are considering the following mechanic:
 
-Whenever you encounter a situation involving card draw, be it [[Monsters]] or [[Chests]], you draw X cards and get to chose one (or none?) of those cards to keep.
+Whenever you encounter a situation involving card draw, be it [[Monsters]] or [[Containers]], you draw X cards and get to chose one (or none?) of those cards to keep.
 
 X could be determined by the difficulty of the task
 * The strength of the monster
