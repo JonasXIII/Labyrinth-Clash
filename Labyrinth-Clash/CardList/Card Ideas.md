@@ -11,6 +11,11 @@ Lockpick
 * All doors are unlocked until the beginning of your next turn.
 * Place the card out on the table and move it to your discard at the start of your next turn
 
+Ghostwalk
+* All doors are unlocked for you until the beginning of your next turn.
+* You cannot make physical attacks or receive physical damage
+* Place the card out on the table and move it to your discard at the start of your next turn
+
 ????
 * Allows you to use any number of one resource as another when played.
 
