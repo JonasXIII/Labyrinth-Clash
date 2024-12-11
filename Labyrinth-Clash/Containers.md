@@ -1,13 +1,14 @@
 # Kinds of Containers
 ## Sack
-Common items
+1 Common item
 Can be opened for free
 ## Crate
-Rare items
+1 Rare items / 2 Common Items
 Can be opened by any attack
 
 ## Chest
-Contains Legendary items
+1 Legendary item / 2 Rare Items / 3 Common Items  
+* #playtest playtest ratios
 Can be opened by a lockpick
 
 

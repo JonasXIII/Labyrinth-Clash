@@ -4,10 +4,14 @@
 2. Discard n cards random where n is cards in hand/3 round down
 3. Draw 4 cards
 
+# Draw/Discard Mechanics
+#playtest
+
 # Basic Turn
 1. Take [[Actions]] - play cards from hand
 2. [[Movement|move]] or [[Actions#Rest|rest]]
-3. Draw [[Cards]] 
+3. Cleanup
+4. Draw [[Cards]] 
 	* How many?
 	* Default of 5
 		* additional cards though cantrips, special items, or class passives
