@@ -8,7 +8,7 @@ Each class could have a passive to get +1 to its specific [[Resources]]
 STR [[Resources]]
 Focused on dealing lots of damage directly and tanking  damage.
 
-## Ranger
+## Rogue
 DEX [[Resources]]
 Focused on ranged attacks and lines of sight
 

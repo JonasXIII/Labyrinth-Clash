@@ -2,7 +2,7 @@
 Four of the resources are more associated with given [[Classes]], though any class can have any/all of them
 ## Strength (STR)
 ## Dexterity (DEX)
-## Vitality (VIT)
+## Holiness (HOL)
 ## Intelligence (INT)
 
 

@@ -10,5 +10,3 @@ If the defender loses, they take an amount of damage equal to the difference of 
 
 ## Attack Range
 By default, attack points can only be used on a player in the same room. Some cards give attack points that can be used with some range. 
-
-Range n indicates that 

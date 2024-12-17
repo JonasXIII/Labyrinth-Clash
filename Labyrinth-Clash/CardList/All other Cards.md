@@ -124,6 +124,5 @@
 ### Lasso
 - Effect: Move target being in sight 1 tile closer to you. If the target was moving, they stop and cannot move this turn.
 
-
 ### Monster Trap
 - Effect: When you discover this card, reveal it and void it. Draw tokens until a monster is drawn and place it on this tile.
